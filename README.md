@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sveawho
-- 👀 I’m interested in ...
+- 👀 I’m interested in most things.
 - 🐍 I’m currently learning Python
 - 💞️ I just want to share my progress
 
